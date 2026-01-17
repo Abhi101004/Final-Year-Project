@@ -1,0 +1,12 @@
+Session_Number,Timestamp,PPD_Risk_Percent,PPD_Risk_Level,Assigned_Therapy,TMD_Pre,TMD_Post,Delta_TMD,Therapy_Duration_Minutes,Wellness_Points,Badge
+1,2025-12-12T15:29:33,2.6213757652802347,Low Risk,User Choice: Nature Walk or Farming Game,101,101,0,0.22008286714553832,5,You Showed Up 🌱
+2,2025-12-12T15:52:04,2.6213757652802347,Low Risk,User Choice: Nature Walk or Farming Game,102,101,1,0.247457488377889,10,Gentle Improvement 💜
+3,2025-12-14T01:39:19,2.6213757652802347,Low Risk,User Choice: Nature Walk or Farming Game,102,100,2,1.049403182665507,10,Gentle Improvement 💜
+4,2025-12-14T01:39:22,2.6213757652802347,Low Risk,User Choice: Nature Walk or Farming Game,102,100,2,1.0988359173138937,10,Gentle Improvement 💜
+5,2025-12-14T01:39:28,2.6213757652802347,Low Risk,User Choice: Nature Walk or Farming Game,102,100,2,1.1885554989178975,10,Gentle Improvement 💜
+6,2025-12-14T01:39:36,2.6213757652802347,Low Risk,User Choice: Nature Walk or Farming Game,102,99,3,1.3308756152788799,10,Gentle Improvement 💜
+7,2025-12-14T21:34:49,2.6213757652802347,Low Risk,User Choice: Nature Walk or Farming Game,102,99,3,,10,Gentle Improvement 💜
+8,2025-12-17T09:24:27,99.43642089143748,High Risk,Clinician Escalation,104,100,4,,10,Gentle Improvement 💜
+9,2025-12-17T09:51:45,8.462947998543708,Low Risk,User Choice: Nature Walk or Farming Game,102,100,2,0.6279811859130859,10,Gentle Improvement 💜
+10,2025-12-17T16:46:57,2.6213757652802347,Low Risk,User Choice: Nature Walk or Farming Game,102,99,3,0.22694478432337442,10,Gentle Improvement 💜
+11,2025-12-22T15:15:42,2.6213757652802347,Low Risk,User Choice: Nature Walk or Farming Game,101,99,2,2.02453697125117,10,Gentle Improvement 💜
